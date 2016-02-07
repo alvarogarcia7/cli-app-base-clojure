@@ -1,4 +1,4 @@
-# CLI Application base, in Clojure
+# CLI Application base, in Clojure [![Build Status](https://travis-ci.org/alvarogarcia7/cli-app-base-clojure.svg?branch=master)](https://travis-ci.org/alvarogarcia7/cli-app-base-clojure)
 
 ## Usage
 
